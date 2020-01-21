@@ -9,6 +9,6 @@ public class Scramblies_ {
     }
 
     private boolean scramble(String str1, String str2) {
-        return false;
+        return str1.equals(str2);
     }
 }
